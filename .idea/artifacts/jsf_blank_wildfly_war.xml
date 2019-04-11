@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jsf-blank-wildfly:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jsf-blank-wildfly.war">
+      <element id="artifact" artifact-name="jsf-blank-wildfly:war exploded" />
+    </root>
+  </artifact>
+</component>
